@@ -1,0 +1,18 @@
+{
+    "clickhouse_default": {
+      "conn_type": "clickhouse",
+      "description": "Подключение к базе данных по HTTP",
+      "host": "clickhouse_user",
+      "port": 8123,
+      "schema": "default",
+      "extra": "{}"
+   },
+   "clickhouse_TCP": {
+      "conn_type": "clickhouse",
+      "description": "Подключение к базе данных по TCP",
+      "host": "clickhouse_user",
+      "port": 9000,
+      "schema": "default",
+      "extra": "{}"
+   }
+}

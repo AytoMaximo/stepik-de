@@ -1,0 +1,7 @@
+pyspark==3.5.4
+py4j==0.10.9.7
+clickhouse-connect==0.8.0
+airflow-providers-clickhouse==0.0.1
+clickhouse-driver==0.2.9
+airflow-clickhouse-plugin
+matplotlib
